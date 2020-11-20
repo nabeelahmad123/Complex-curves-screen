@@ -1,7 +1,7 @@
 # Complex-curves-screen
 
 I have created a flutter Complex-curves-screen using customClipper class.
-<img src="C:\Users\ADMIN\Desktop\Futter apps\design\screenshots\yea.jpg">
+
 
 ## Getting Started
 
