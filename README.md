@@ -1,6 +1,6 @@
-# design
+# Complex-curves-screen
 
-A new Flutter project.
+I have created a flutter Complex-curves-screen using customClipper class.
 
 ## Getting Started
 
